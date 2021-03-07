@@ -7,7 +7,7 @@
 
 - 🤝 I’m currently working at [Daitan Group](https://www.daitan.com/)
 
-- 🌱 I’m currently learning **CSS animations and transitions and serverless framework**
+- 🌱 I’m currently learning **CSS animations, CSS transitions and serverless framework**
 
 - 👨‍💻 I’m part of the front-end team on [VMWare pathfinder](https://pathfinder.vmware.com/)
 
