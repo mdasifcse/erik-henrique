@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erik-henrique&label=Profile%20views&color=0e75b6&style=flat" alt="erik-henrique" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erik-henrique" alt="erik-henrique" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/deverikh" target="blank"><img src="https://img.shields.io/twitter/follow/deverikh?logo=twitter&style=for-the-badge" alt="deverikh" /></a> </p>
 
 - 🤝 I’m currently working at [Daitan Group](https://www.daitan.com/)
@@ -25,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/deverikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="erik-henrique" height="30" width="40" /></a>
+<a href="https://dev.to/erik-henrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="erik-henrique" height="30" width="40" /></a>
 <a href="https://twitter.com/deverikh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deverikh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erik-henrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="erik-henrique" height="30" width="40" /></a>
 <a href="https://instagram.com/theerikc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="theerikc" height="30" width="40" /></a>
 <a href="https://medium.com/@erik-henrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@erik-henrique" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCPJdJ4qPAKxvmD4P4TR6muA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="erik henrique" height="30" width="40" /></a>
-<a href="https://medium.com/feed/@erik-henrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://medium.com/feed/@erik-henrique" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/erik henrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="erik henrique" height="30" width="40" /></a>
+<a href="/medium.com/feed/@erik-henrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="medium.com/feed/@erik-henrique" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
